@@ -1,0 +1,15 @@
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 08 Stack&List/OOP-Generic-in-C-sharp/bin/Debug/net6.0/OOP Generic in C-sharp
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 08 Stack&List/OOP-Generic-in-C-sharp/bin/Debug/net6.0/OOP Generic in C-sharp.deps.json
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 08 Stack&List/OOP-Generic-in-C-sharp/bin/Debug/net6.0/OOP Generic in C-sharp.runtimeconfig.json
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 08 Stack&List/OOP-Generic-in-C-sharp/bin/Debug/net6.0/OOP Generic in C-sharp.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 08 Stack&List/OOP-Generic-in-C-sharp/bin/Debug/net6.0/OOP Generic in C-sharp.pdb
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 08 Stack&List/OOP-Generic-in-C-sharp/obj/Debug/net6.0/OOP Generic in C-sharp.csproj.AssemblyReference.cache
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 08 Stack&List/OOP-Generic-in-C-sharp/obj/Debug/net6.0/OOP Generic in C-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 08 Stack&List/OOP-Generic-in-C-sharp/obj/Debug/net6.0/OOP Generic in C-sharp.AssemblyInfoInputs.cache
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 08 Stack&List/OOP-Generic-in-C-sharp/obj/Debug/net6.0/OOP Generic in C-sharp.AssemblyInfo.cs
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 08 Stack&List/OOP-Generic-in-C-sharp/obj/Debug/net6.0/OOP Generic in C-sharp.csproj.CoreCompileInputs.cache
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 08 Stack&List/OOP-Generic-in-C-sharp/obj/Debug/net6.0/OOP Generic in C-sharp.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 08 Stack&List/OOP-Generic-in-C-sharp/obj/Debug/net6.0/refint/OOP Generic in C-sharp.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 08 Stack&List/OOP-Generic-in-C-sharp/obj/Debug/net6.0/OOP Generic in C-sharp.pdb
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 08 Stack&List/OOP-Generic-in-C-sharp/obj/Debug/net6.0/OOP Generic in C-sharp.genruntimeconfig.cache
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 08 Stack&List/OOP-Generic-in-C-sharp/obj/Debug/net6.0/ref/OOP Generic in C-sharp.dll
