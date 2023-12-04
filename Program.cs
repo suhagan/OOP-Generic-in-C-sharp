@@ -85,18 +85,18 @@ class Program
 
         // Checking if Employee no 2 object exists in the list
         var containsEmp2 = employeeList.Contains(emp2);
-        Console.WriteLine($"\nEmployee 2 {(containsEmp2 ? "exists" : "does not exist")} in the list");
+        Console.WriteLine($"\nEmp 2 {(containsEmp2 ? "exists" : "does not exist")} in the list");
 
         // Finding the first item in the list with Gender = "Male", using Find() method
-        var firstMaleEmployee = employeeList.Find(e => e.Gender == "Male");
-        Console.WriteLine($"\nFirst male Employee in the list: Id: {firstMaleEmployee.Id}, Name: {firstMaleEmployee.Name}, Gender: {firstMaleEmployee.Gender}, Salary: {firstMaleEmployee.Salary}");
+        var firstMaleEmp = employeeList.Find(e => e.Gender == "Male");
+        Console.WriteLine($"\nFirst male Employee in the list: Id: {firstMaleEmp.Id}, Name: {firstMaleEmp.Name}, Gender: {firstMaleEmp.Gender}, Salary: {firstMaleEmp.Salary}");
 
         // Finding all items in the list with Gender = "Male", using FindAll() method
-        var maleEmployees = employeeList.FindAll(e => e.Gender == "Male");
+        var allmaleEmps = employeeList.FindAll(e => e.Gender == "Male");
         Console.WriteLine("\nAll male Employees in the list: ");
-        foreach (var maleEmployee in maleEmployees)
+        foreach (var maleEmp in allmaleEmps)
         {
-            Console.WriteLine($"Id: {maleEmployee.Id}, Name: {maleEmployee.Name}, Gender: {maleEmployee.Gender}, Salary: {maleEmployee.Salary}");
+            Console.WriteLine($"Id: {maleEmp.Id}, Name: {maleEmp.Name}, Gender: {maleEmp.Gender}, Salary: {maleEmp.Salary}");
         }
 
         Console.ReadLine();
